@@ -2,6 +2,7 @@
 
 # ☣️ Welcome To HackTheVirus.org ☣️
 The international initiative to combat infectious diseases like COVID-19, Influenza, and much more.
+Visit [HackTheVirus.org](https://HackTheVirus.org) to view the current version of the app.
 Our goal is to build an app designed around public health, reporting, testing, information, resources, and emerging news.
 This App is the control center to focus all active development and projects pertaining to infectious diseases and to crowdsource creative solutions among talented programmers and universities across the globe.
 
@@ -9,16 +10,23 @@ This App is the control center to focus all active development and projects pert
 
 ![Zap.org](https://github.com/zapproject/HackTheVirus.org/blob/master/components/assets/img/ZapLogo_alt.png "Zap.Org")
 
-First, Install the app:
+First Download the App:
 
 ```bash
-yarn
+$ git clone https://github.com/zapproject/HackTheVirus.org.git
+```
+
+
+Next, Install the app:
+
+```bash
+$ yarn
 ```
 
 Then, run the development server:
 
 ```bash
-yarn dev
+$ yarn dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
