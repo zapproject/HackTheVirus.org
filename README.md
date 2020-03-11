@@ -7,7 +7,7 @@ This App is the control center to focus all active development and projects pert
 
 ## Partners
 
-![Zap.org](https://github.com/zapproject/HackTheVirus.org/blob/master/components/assets/img/ZapLogo.png "Zap.Org")
+![Zap.org](https://github.com/zapproject/HackTheVirus.org/blob/master/components/assets/img/ZapLogo_alt.png "Zap.Org")
 
 First, Install the app:
 
