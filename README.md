@@ -1,6 +1,13 @@
 ## Getting Started
 
-First, run the development server:
+
+First, Install the app:
+
+```bash
+yarn
+```
+
+Then, run the development server:
 
 ```bash
 yarn dev
