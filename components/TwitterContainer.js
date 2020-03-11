@@ -1,5 +1,7 @@
 import React, { useEffect } from "react";
 
+import "./TwitterContainer.scss"
+
 const TwitterContainer = () => {
     useEffect(() => {
       const anchor = document.createElement("a");

@@ -1,0 +1,11 @@
+.twitterContainer {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-height: 50%;
+}
+.twitter-embed {
+    max-height: 50%;
+    padding: 1em;
+}
