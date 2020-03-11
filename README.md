@@ -1,4 +1,4 @@
-![alt text](https://github.com/zapproject/HackTheVirus.org/tree/master/components/assets/img/background.jpg "COVID-19")
+![alt text](https://github.com/zapproject/HackTheVirus.org/blob/master/components/assets/img/background.jpg "COVID-19")
 
 # ☣️ Welcome To HackTheVirus.org ☣️
 The international initiative to combat infectious diseases like COVID-19, Influenza, and much more.
@@ -7,7 +7,7 @@ This App is the control center to focus all active development and projects pert
 
 ## Partners
 
-![alt text](https://github.com/zapproject/HackTheVirus.org/tree/master/components/assets/img/ZapLogo.png "Zap.Org")
+![Zap.org](https://github.com/zapproject/HackTheVirus.org/blob/master/components/assets/img/ZapLogo.png "Zap.Org")
 
 First, Install the app:
 
