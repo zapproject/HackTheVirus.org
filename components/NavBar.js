@@ -1,5 +1,5 @@
 
-import "./Navbar.scss";
+import "./NavBar.scss";
 import NavButton from "./NavButton";
 
 const NavBar = props => (
