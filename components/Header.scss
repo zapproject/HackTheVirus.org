@@ -1,0 +1,21 @@
+@import "../theme/theme";
+
+.Header {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+
+  height: 3em;
+  width: 100%;
+
+  font-family: $logo-font;
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: $on-secondary;
+  text-transform: uppercase;
+  
+
+  background: $highlight;
+
+  cursor: pointer;
+}
