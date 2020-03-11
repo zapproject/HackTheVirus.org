@@ -1,6 +1,6 @@
 ![alt text](https://github.com/zapproject/HackTheVirus.org/blob/master/components/assets/img/background.jpg "COVID-19")
 
-# ☣️ Welcome To HackTheVirus.org ☣️
+# ☣️ Welcome To HackTheVirus.org! ☣️
 The international initiative to combat infectious diseases like COVID-19, Influenza, and much more.
 Visit [HackTheVirus.org](https://HackTheVirus.org) to view the current version of the app.
 Our goal is to build an app designed around public health, reporting, testing, information, resources, and emerging news.
