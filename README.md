@@ -1,5 +1,13 @@
-## Getting Started
+![alt text](https://github.com/zapproject/HackTheVirus.org/tree/master/components/assets/img/background.jpg "COVID-19")
 
+# ☣️ Welcome To HackTheVirus.org ☣️
+The international initiative to combat infectious diseases like COVID-19, Influenza, and much more.
+Our goal is to build an app designed around public health, reporting, testing, information, resources, and emerging news.
+This App is the control center to focus all active development and projects pertaining to infectious diseases and to crowdsource creative solutions among talented programmers and universities across the globe.
+
+## Partners
+
+![alt text](https://github.com/zapproject/HackTheVirus.org/tree/master/components/assets/img/ZapLogo.png "Zap.Org")
 
 First, Install the app:
 
