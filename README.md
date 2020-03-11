@@ -13,6 +13,7 @@ This App is the control center to focus all active development and projects pert
 <a href="url"><img src="https://github.com/zapproject/HackTheVirus.org/blob/master/components/assets/img/cryptosLogo.png" align="left" height="25%" width="25%" ></a>
 
 <br/>
+<br/>
 ___
 
 First Download the App:
