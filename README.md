@@ -14,9 +14,29 @@ This App is the control center to focus all active development and projects pert
 
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 ## Instructions
-___
+
 
 First Download the App:
 
