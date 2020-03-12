@@ -1,9 +1,9 @@
 @keyframes discord {
 	0% {height:70px; width:250px;}
-	 100% {height:20rem;width:300px;}
+	 100% {height:15rem;width:300px;}
 }
 @keyframes discord-c {
-	0% {height:20rem;width:300px;}
+	0% {height:15rem;width:300px;}
     100% {height:70px; width:250px;}
 }
 .discord {
@@ -23,7 +23,7 @@
 }
 
 .discord:hover {
-	height:20rem;
+	height:15rem;
 	width:300px;
 	animation-name: discord;
 	animation-duration: .25s;
