@@ -1,10 +1,11 @@
-![alt text](https://github.com/zapproject/HackTheVirus.org/blob/master/components/assets/img/background.jpg "COVID-19")
+![coronavirus](https://github.com/zapproject/HackTheVirus.org/blob/master/components/assets/img/background.jpg "COVID-19")
 
 # ☣️ Welcome To HackTheVirus.org! ☣️
 The international initiative to combat infectious diseases like COVID-19, Influenza, and much more.
 Visit [HackTheVirus.org](https://HackTheVirus.org) to view the current version of the app.
 Our goal is to build an app designed around public health, reporting, testing, information, resources, and emerging news.
 This App is the control center to focus all active development and projects pertaining to infectious diseases and to crowdsource creative solutions among talented programmers and universities across the globe.
+![coronavirusrun](https://media.giphy.com/media/IbmS6XKR5fTVchlxcN/giphy.gif "running from covid")
 
 ## Partners
 
