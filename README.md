@@ -1,5 +1,3 @@
-![coronavirus](https://github.com/zapproject/HackTheVirus.org/blob/master/components/assets/img/background.jpg "COVID-19")
-
 # ☣️ Welcome To HackTheVirus.org! ☣️
 The international initiative to combat infectious diseases like COVID-19, Influenza, and much more.
 Visit [HackTheVirus.org](https://HackTheVirus.org) to view the current version of the app.
@@ -71,3 +69,5 @@ To learn more about Next.js, take a look at the following resources:
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
 You can check out [the Next.js GitHub repository](https://github.com/zeit/next.js/) - your feedback and contributions are welcome!
+
+![coronavirus](https://github.com/zapproject/HackTheVirus.org/blob/master/components/assets/img/background.jpg "COVID-19")
