@@ -2,6 +2,7 @@ import Head from "next/head";
 
 import Header from "./Header";
 import NavBar from "./NavBar";
+import JoinDiscord from "./JoinDiscord";
 
 import "./Layout.scss";
 import "./index.scss";
