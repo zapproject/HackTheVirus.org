@@ -1,8 +1,9 @@
-@mixin btn-border-drawing($color: #FA4141, $hover: black, $width: 2px, $vertical: top, $horizontal: left, $duration: 0.25s) {
+@mixin btn-border-drawing($color: #FA4141, $hover: black, $width: 2px, $vertical: bottom, $horizontal: right, $duration: 0.25s) {
     box-shadow: inset 0 0 0 $width $color;
     color: $color;
     transition: color $duration $duration/3;
     position: relative;
+    border-radius: 15px;
     
     &::before,
     &::after {
@@ -15,20 +16,23 @@
       
       #{$vertical}: 0; 
       #{$horizontal}: 0;
+      border-radius: 15px;
     }
   
     &::before {
-      $h-side: if($horizontal == 'left', 'right', 'left');
+      $h-side: if($horizontal == 'right', 'left', 'right');
       
       border-#{$vertical}-width: $width;
       border-#{$h-side}-width: $width;
+      border-radius: 15px;
     }
     
     &::after {
-      $v-side: if($vertical == 'top', 'bottom', 'top');
+      $v-side: if($vertical == 'bottom', 'top', 'bottom');
       
       border-#{$v-side}-width: $width;
       border-#{$horizontal}-width: $width;
+      border-radius: 15px;
     }
     
     &:hover {
@@ -40,6 +44,8 @@
         transition: border-color 0s, width $duration, height $duration;
         width: 100%;
         height: 100%;
+        border-radius: 15px;
+        
       }
       
       &::before { transition-delay: 0s, 0s, $duration; }
@@ -49,7 +55,8 @@
   }
   
   .draw-border {
-    @include btn-border-drawing(#FA4141, #fff, 4px, bottom, right);
+    @include btn-border-drawing(#FA4141, #fff, 4px, bottom, left);
+    border-radius: 15px;
   }
   
   //=== Button styling, semi-ignore
@@ -61,6 +68,7 @@
     font: 700 1.2rem 'Roboto Slab', sans-serif;
     padding: 1em 2em;
     letter-spacing: 0.05rem;
+    border-radius: 15px;
     
     &:focus { outline: 2px dotted #fff; }
   }
