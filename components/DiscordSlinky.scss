@@ -1,0 +1,33 @@
+@keyframes discord {
+	0% {height:70px; width:250px;}
+	 100% {height:500px;width:350px;}
+}
+@keyframes discord-c {
+	0% {height:500px;width:350px;}
+    100% {height:70px; width:250px;}
+}
+.discord {
+	animation-name: discord-c;
+	animation-duration: 2s;
+	animation-play-state: pause;
+	
+    height:70px;
+    width:250px;
+    margin: 5px;
+    border-radius: 5px;
+    border: 1px solid white;
+    align-items: center;
+    
+   
+	
+}
+
+.discord:hover {
+	height:500px;
+	width:350px;
+	animation-name: discord;
+	animation-duration: 2s;
+    animation-play-state: pause;
+    align-items: center;
+}
+	
