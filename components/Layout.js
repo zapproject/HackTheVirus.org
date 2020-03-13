@@ -3,7 +3,6 @@ import Head from "next/head";
 import Header from "./Header";
 import NavBar from "./NavBar";
 
-
 import "./Layout.scss";
 import "./index.scss";
 
