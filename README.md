@@ -13,7 +13,7 @@ This App is the control center to focus all active development and projects pert
 
 ## March Kickoff Hackathon
 
-The HackTheVirus 2020 Hackathon will be taking place Virtually and in Person (depending on your location) on Saturday March 14th & Sunday March 15th The goal will be to create an app, technology, device, or biohack which will prevent, cure, or slow the spread of COVID-19. There are no rules any previous inventions, code, devices, or biological agents can be used to acchieve these goals. 
+The HackTheVirus 2020 Hackathon will be taking place Virtually and in Person (depending on your location) submissions will be judged on March 31st. The goal will be to create an app, technology, device, or biohack which will prevent, cure, or slow the spread of COVID-19. There are no rules any previous inventions, code, devices, or biological agents can be used to acchieve these goals. 
 
 ### Submission
 
