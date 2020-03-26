@@ -5,6 +5,8 @@ Join the Discord to communicate and help us hack the Virus!: [Hack The Virus Dis
 
 Visit [HackTheVirus.org](https://HackTheVirus.org) to view the current version of the app.
 
+Go to Hack The Virus virtual hackathon location: https://hubs.mozilla.com/XQtMAx3/marketplace-citadel/
+
 Our goal is to build an app designed around public health, reporting, testing, information, resources, and emerging news.
 This App is the control center to focus all active development and projects pertaining to infectious diseases and to crowdsource creative solutions among talented programmers and universities across the globe!
 
